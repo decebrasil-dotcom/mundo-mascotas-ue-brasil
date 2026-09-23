@@ -1,0 +1,6 @@
+{
+  "name": "Mundo de las Mascotas — Unidad Educativa Brasil",
+  "description": "Aplicación educativa, lúdica e interactiva con las 10 mascotas oficiales de la Unidad Educativa Brasil para estudiantes: juegos, álbum de stickers, cuentos, retos, DECE y buzón.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
