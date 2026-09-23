@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename);
 
 export default defineConfig(() => {
   return {
+    base: '/mundo-mascotas-ue-brasil/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
